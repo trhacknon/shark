@@ -6,18 +6,18 @@
 #### <p align="center">**Future of Phishing is here**
 </p>
 <p align="center">
-<a href="https://github.com/Bhaviktutorials"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
- <a href="https://paypal.me/bhavikoza"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
- <a href="https://github.com/Bhaviktutorials/shark"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
-<a href="https://github.com/Bhaviktutorials"><img title="GitHub version" src="https://img.shields.io/github/license/Bhaviktutorials/T-Remix?color=Brightgree" ></a>
- <a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
- <a href="https://instagram.com/bhavik_tutorials"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Bhavik_Tutorials-ff69b4"/></a>
- <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
+<a href="https://github.com/trhacknon"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+ <a href="https://paypal.me/"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
+ <a href="https://github.com/trhacknon/shark"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
+<a href="https://github.com/trhacknon"><img title="GitHub version" src="https://img.shields.io/github/license/Bhaviktutorials/T-Remix?color=Brightgree" ></a>
+ <a href="https://www.youtube.com/channel/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
+ <a href="https://instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Bhavik_Tutorials-ff69b4"/></a>
+ <a href="https://github.com/trhacknon"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/) ❤️*
+###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/)✌*
 ---
 
 ## <p align="center">**What is Shark??**
@@ -42,7 +42,7 @@
 sudo apt update -y && sudo apt upgrade -y
 ```
 ```bash
-sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo bash
+sudo wget -qO- https://github.com/trhacknon/shark/raw/master/setup | sudo bash
 ```
 ***
 ### Android (Termux)👇
@@ -56,16 +56,16 @@ pkg update -y
 pkg install wget -y
 ```
 ```bash
-wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | bash 
+wget -qO- https://github.com/trhacknon/shark/raw/master/setup | bash 
 ```
 ***
 ##### Docker Will Available SAP ~
 
 ### Windows👇
-### <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/Bhaviktutorials/shark&tutorial=README.md)
+### <p align="center"> [![Open in Cloud Shell](https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/trhacknon/shark&tutorial=README.md)
 ###### <p align="center"> Then use given command below👇
 ```bash
-sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo bash
+sudo wget -qO- https://github.com/trhacknon/shark/raw/master/setup | sudo bash
 ```
 ###### <p align="center"> **Note**:- Make sure you have done updated your system before using the tool.
 ***
@@ -92,7 +92,7 @@ sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo 
   <tr>
     <td><a href="https://github.com/Just-hack/"><p align='center'><b>Ashish Singh</b></td>
     <td><a href="https://github.com/E343IO/"><p align="center"><b>Mr.Derek</b></td>
-    <td><a href="https://github.com/Bhaviktutorials/"><p align="center"><b>Bhavik Tutorials</b></td>
+    <td><a href="https://github.com/trhacknon/"><p align="center"><b>trhacknon</b></td>
   </tr>
   <tr>
     <td><p align='center'><b>Author</b></td>
@@ -102,7 +102,7 @@ sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo 
 </table>
 
 <p align="center"><a href="https://www.buymeacoffee.com/BhavikTutorials" target="_blank"><img src="https://github.com/E343IO/stuff/blob/main/default-orange.webp?raw=true" alt="Buy Me A Coffee" height="41" width="174"></a>
-<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
-<a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
-<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/113977119-b91e0700-985f-11eb-9418-eab91ff1540e.png" alt="Telegram" width="80" height="">
-<a href="https://www.instagram.com/bhavik_tutorials/"><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
+<p align="center"><a href="https://github.com/trhacknon"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
+<a href="https://www.youtube.com/channel/"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
+<a href="https://t.me/"><img src="https://user-images.githubusercontent.com/64035221/113977119-b91e0700-985f-11eb-9418-eab91ff1540e.png" alt="Telegram" width="80" height="">
+<a href="https://www.instagram.com//"><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
